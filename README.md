@@ -1,6 +1,5 @@
 # Projects_links  
-Repository which includes all website links as a part of my projects
-
+Repository that includes all website links related to my projects
 - [portfolio](https://susan-andrews.github.io/)  
 - [AgrowIT](https://agrowit.in/)  
 - [IEEE AJCE WIE Chapter website](https://ajceieee.github.io/ieeeajcesb/women-in-engineering/)  
