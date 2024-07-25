@@ -6,3 +6,6 @@ Repository that includes all website links related to my projects
 - [Eventure website](https://ieeeajce.org/EVenture/)  
 - [Cyrus Motorsports Club Website](https://susan-andrews.github.io/torero_ajce/)  
 - [Tail light](https://blogapp-2901.web.app/)
+
+
+Resume: [Updated resume](https://susan-andrews.github.io/files/SusanResume.pdf)
